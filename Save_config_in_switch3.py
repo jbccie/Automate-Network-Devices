@@ -65,6 +65,6 @@ class Config():
 #x = SSH2('admin','Jaskaran12','192.168.0.253')
 #x.sh_run()
 
-y = Config('admin','Jaskaran12')
+y = Config('username','password')
 y.create_vlan()
 #c.device_list()
